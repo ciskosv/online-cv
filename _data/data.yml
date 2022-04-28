@@ -42,9 +42,6 @@ sidebar:
       - item: Snowboarding
         link:
 
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -53,7 +50,7 @@ career-profile:
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Second paragraph if required testing.
 education:
     - degree: MSc in Computer Science
       university: University of London
